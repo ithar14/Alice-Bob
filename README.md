@@ -1,5 +1,6 @@
 # Alice-Bob
-Alice and Bob prime number communication game; python script
+
+## Alice and Bob prime number communication game; python script
 ```
 $ python alice+bob.py
 hello BoB
@@ -23,3 +24,7 @@ Alice Public Key b =  526
 connection established
 message recieved a =  134
 ```
+## LargePrimeNumbers_runtime.ipynb
+The larger the prime number, the more complicated and impossible the problem becomes.
+
+for 4 digits it would take ~ 200849654 centuries
