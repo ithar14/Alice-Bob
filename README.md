@@ -28,3 +28,12 @@ message recieved a =  134
 The larger the prime number, the more complicated and impossible the problem becomes.
 
 for 4 digits it would take ~ 200849654 centuries
+
+## QTeleportation.ipynb (Quantum solution)
+Alice wants to transfers an unknown quantum state $\\Psi$ 
+* Alice and Bob use a third party : Telamon
+   * TELAMON : send an entangled qubit pair
+
+   * ALICE : using one entangled pair of qubits shared by TELAMON, she sends the results to BOB over a classical communication channel.
+
+   * BOB : prefoms some operation based on the classical information sent by ALICE
